@@ -10,17 +10,21 @@ ProHire boasts full responsiveness, ensuring a smooth experience across all devi
 
 ## Screenshots
 
+# Home
+
 ![Home](src/Assets/images/Home.PNG)
-_Home_
+
+# Jobs
 
 ![Jobs](src/Assets/images/Jobs.PNG)
-_Jobs_
+
+# Post a Job
 
 ![Post a Job](src/Assets/images/post-job.PNG)
-_Post a Job_
+
+# Saved Jobs
 
 ![Saved Jobs](src/Assets/images/saved-jobs.PNG)
-_Saved Jobs_
 
 ## Tools and Technology Used:-
 
