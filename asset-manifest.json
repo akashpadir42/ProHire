@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/github.io/ProHire/static/css/main.9f076930.css",
+    "main.js": "/github.io/ProHire/static/js/main.c4c23740.js",
+    "static/media/Home.PNG": "/github.io/ProHire/static/media/Home.370d8d158e30659e8f06.PNG",
+    "static/media/cool-background.png": "/github.io/ProHire/static/media/cool-background.8c252db8e4acab4196d4.png",
+    "static/media/tesla.png": "/github.io/ProHire/static/media/tesla.07f612597196a0c119d9.png",
+    "static/media/Jobs.PNG": "/github.io/ProHire/static/media/Jobs.689b4fd4403c33aca05c.PNG",
+    "static/media/sap.jpeg": "/github.io/ProHire/static/media/sap.b2bc7f8625809466165a.jpeg",
+    "static/media/flp.jpeg": "/github.io/ProHire/static/media/flp.5f02dfcba9db57b63d0b.jpeg",
+    "static/media/synopsys.png": "/github.io/ProHire/static/media/synopsys.bea76ee6b322b1da4d3d.png",
+    "static/media/post-job.PNG": "/github.io/ProHire/static/media/post-job.9abbeb3edccc44f1e137.PNG",
+    "static/media/saved-jobs.PNG": "/github.io/ProHire/static/media/saved-jobs.667fbdcb426f23da0b24.PNG",
+    "static/media/oracle.png": "/github.io/ProHire/static/media/oracle.c07667e36b072b6a4208.png",
+    "static/media/amazon.png": "/github.io/ProHire/static/media/amazon.138c5b5e99765ffac1a1.png",
+    "static/media/tcs.webp": "/github.io/ProHire/static/media/tcs.a7873527060d53dadef1.webp",
+    "static/media/accenture.jpeg": "/github.io/ProHire/static/media/accenture.efd3e5718eac1fbe59e7.jpeg",
+    "static/media/paytm.png": "/github.io/ProHire/static/media/paytm.fd7bf2f466023f3c3ace.png",
+    "static/media/ibm.jpeg": "/github.io/ProHire/static/media/ibm.b700f9aef98d6a67d5ad.jpeg",
+    "static/media/cognizant.webp": "/github.io/ProHire/static/media/cognizant.322b3a8a75fff5cbbc7d.webp",
+    "index.html": "/github.io/ProHire/index.html",
+    "main.9f076930.css.map": "/github.io/ProHire/static/css/main.9f076930.css.map",
+    "main.c4c23740.js.map": "/github.io/ProHire/static/js/main.c4c23740.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f076930.css",
+    "static/js/main.c4c23740.js"
+  ]
+}
