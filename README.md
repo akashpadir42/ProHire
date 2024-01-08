@@ -8,25 +8,25 @@ Introducing the Discussion Chamber, powered by Sanity (Headless CMS), where user
 
 ProHire boasts full responsiveness, ensuring a smooth experience across all devices, empowering users to explore, apply, and engage effortlessly.
 
-## Screenshots
+# Screenshots
 
-# Home
+## Home
 
 ![Home](src/Assets/images/Home.PNG)
 
-# Jobs
+## Jobs
 
 ![Jobs](src/Assets/images/Jobs.PNG)
 
-# Post a Job
+## Post a Job
 
 ![Post a Job](src/Assets/images/post-job.PNG)
 
-# Saved Jobs
+## Saved Jobs
 
 ![Saved Jobs](src/Assets/images/saved-jobs.PNG)
 
-## Tools and Technology Used:-
+# Tools and Technology Used:-
 
 1.HTML CSS AND JS
 2.React JS
